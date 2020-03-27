@@ -151,3 +151,19 @@ authors:
     coi:
       string: "None"
       lastapproved: !!str 2020-03-26
+      
+  -
+    github: rishirajgoel
+    name: Rishi R. Goel
+    initials: RRG
+    orcid: 0000-0003-1715-5191
+    twitter: rishirajgoel
+    email: rishi.goel@pennmedicine.upenn.edu  
+    contributions:
+      - Writing - review & editing
+      - Project administration
+    affiliations:
+      - Perelman School of Medicine, University of Pennsylvania, Philadelphia PA, United States of America
+    coi:
+      string: "None"
+      lastapproved: !!str 2020-03-27
